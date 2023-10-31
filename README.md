@@ -155,7 +155,7 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 |	14/11/2023	|	Exercícios	|
 |	16/11/2023	|	Modelo Normal	|
 |	21/11/2023	|	Exercícios	|
-|	23/11/2023	|	Introdução à Inferência Estatística. Distribuição Amostral da Média	|
+|	23/11/2023	|	Introdução à Inferência Estatística	|
 |	28/11/2023	|	Exercícios	|
 |	30/11/2023	|	Intervalo de Confiança para média de uma população normal com variância Conhecida	|
 |	05/12/2023	|	Exercícios	|
