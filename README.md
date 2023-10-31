@@ -149,7 +149,7 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 |	19/10/2023	|SNCT - Não haverá aula	|
 |	24/10/2023	|	PROVA 1	|
 |	26/10/2023	|	Introdução à Probabilidade	|
-|	31/10/2023	|	Probabilidade condicional; Independência; Teorema da Probabilidade Total; Teorema de Bayes	|
+|	31/10/2023	|	Probabilidade condicional; Independência	|
 |	07/11/2023	|	Variáveis Aleatórias Discretas	|
 |	09/11/2023	|	Modelos de Variável Aleatórias Discretas	|
 |	14/11/2023	|	Exercícios	|
