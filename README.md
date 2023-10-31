@@ -38,8 +38,6 @@ Neste ambiente serão disponibilizados materiais relacionados às disciplinas de
 
 - Modelos de Variáveis Aleatórias Discretas
 
-- Variáveis Aleatórias Contínuas
-
 - Distribuição Normal
 
 - Introdução à Inferência Estatística
@@ -206,25 +204,22 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 | Introdução à Probabilidade              | Videoaula - Parte 1      | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Videoaula - Parte 2      | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula - Parte 1| [link](https://drive.google.com/file/d/1iubL6nV3uRFHWRhSCBmm1WXEujC_Oyu9/view?usp=sharing)
-|                                         | Slides da Aula - Parte 2| [link](https://drive.google.com/file/d/15_PfOYYqn5BJIroevIU1FpvpZVkpVFS5/view?usp=sharing)
-|                                         | **Lista de Exercícios_5**     | [link](https://drive.google.com/open?id=12LK9qPwawXA3n5q_cCrXg8zNVZ0lsOnZ)
-| Variáveis Aleatórias Discretas          | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
-|                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1ZM5IGnrUia6iXQ_c6YFchmg5YMKd4uBv/view?usp=sharing)     
-|                                         | **Lista de Exercícios_6**     | [link](https://drive.google.com/file/d/1p5BZVcCgS5kx6yp2T2NIy2ZLjuKU1faW/view?usp=sharing) 
+|                                         | Slides da Aula - Parte 2| [link]()
+|                                         | **Lista de Exercícios_5**     | [link]()
 | Modelos VA Discretas                    | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/18IVAb1LpvIu_C-3LMfqjSubDg7TjDY7r/view?usp=sharing)     
-|                                         | **Lista de Exercícios_7**     | [link](https://drive.google.com/file/d/1PEmHjGVw455axRjvFghr7S7ngi4VDqk5/view?usp=sharing)
+|                                         | **Lista de Exercícios_6**     |  <! -[link](https://drive.google.com/file/d/1PEmHjGVw455axRjvFghr7S7ngi4VDqk5/view?usp=sharing)-->
 | Distribuição Normal                     | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1QQrRRnAgGf6wgf8jkPsxLHHcIITt4Cjh/view?usp=sharing)     
 |                                         | Tabela Normal Padrão    | [link](https://drive.google.com/file/d/1HK-ojyzYDsWTDqpx_WRPqyQjzwF0x6Xv/view?usp=sharing) 
-|                                         | **Lista de Exercícios_8**     | [link](https://drive.google.com/file/d/1ZJhXZgLeVFsaBJ4MRhUjaw5Z_A0eauTc/view?usp=sharing)
-| Introdução à Inferência Estatística     | Videoaula 1             | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
+|                                         | **Lista de Exercícios_7**     | [link](https://drive.google.com/file/d/1ZJhXZgLeVFsaBJ4MRhUjaw5Z_A0eauTc/view?usp=sharing)
+| Introdução à Inferência Estatística     | Videoaula 1             |  <! -[link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl) --> 
 |                                         | Videoaula 2             | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Videoaula 3             | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula 1        | [link](https://drive.google.com/file/d/1NF6G51Inp8_WLdohBlVVoWACoqtTnRN6/view?usp=sharing)     
 |                                         | Slides da Aula 2        | [link](https://drive.google.com/file/d/11snDzmuyTsTfG5fl_AEcIFTPA74u2rwI/view?usp=sharing)     
 |                                         | Slides da Aula 3        | [link](https://drive.google.com/file/d/1yw54MUdrY_oysEcLCcw2Nff1R7hIWgV1/view?usp=sharing)     
-|                                         | **Lista de Exercícios_9**     | [link](https://drive.google.com/file/d/1a-Zr546uKYfZfCzDLGfi3BngwaQKXvUD/view?usp=sharing)
+|                                         | **Lista de Exercícios_8**     | <! --[link](https://drive.google.com/file/d/1a-Zr546uKYfZfCzDLGfi3BngwaQKXvUD/view?usp=sharing)-->
 
 
 
