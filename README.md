@@ -1,10 +1,10 @@
-# **Estatística Básica e Introdução à Bioestatística**
+# **Introdução à Bioestatística**
 
 
 **Prof. Adriana Andrade (DEMAT/UFRRJ)**
 andrade.ufrrj@gmail.com
 
-Neste ambiente serão disponibilizados materiais relacionados às disciplinas de Estatística Básica e Introdução à Bioestatísica. Nessas disciplinas são apresentados os conceitos elementares da Estatística, como a representação das variáveis por meio de tabelas, gráficos e medidas resumos. Serão ainda contemplados os conceitos e as técnicas de associação entre duas variáveis, importantes para a avaliação das nossas hipóteses de estudo. Neste curso, a temática da probabilidade será abordada tendo em vista à mensuração da incerteza envolvida nos fenômenos e experimentos de interesse com a exposição dos conceitos elementares e a apresentação das variáveis aleatórias. A disciplina se encerra com a apresentação de técnicas de inferência estatística, tópico que aborda o processo de obtenção de resultados a partir de uma amostra. O software R será utilizado ao longo do curso com o objetivo de proporcionar ao aluno uma aproximação entre teoria e prática.
+Neste ambiente serão disponibilizados materiais relacionados às disciplinas de Introdução à Bioestatísica. Nessas disciplinas são apresentados os conceitos elementares da Estatística, como a representação das variáveis por meio de tabelas, gráficos e medidas resumos. Serão ainda contemplados os conceitos e as técnicas de associação entre duas variáveis, importantes para a avaliação das nossas hipóteses de estudo. Neste curso, a temática da probabilidade será abordada tendo em vista à mensuração da incerteza envolvida nos fenômenos e experimentos de interesse com a exposição dos conceitos elementares e a apresentação das variáveis aleatórias. A disciplina se encerra com a apresentação de técnicas de inferência estatística, tópico que aborda o processo de obtenção de resultados a partir de uma amostra. O software R será utilizado ao longo do curso com o objetivo de proporcionar ao aluno uma aproximação entre teoria e prática.
 
 
 ****************************************************************************************************************************************************************************
@@ -214,8 +214,7 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 | Modelos VA Discretas                    | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/18IVAb1LpvIu_C-3LMfqjSubDg7TjDY7r/view?usp=sharing)     
 |                                         | **Lista de Exercícios_7**     | [link](https://drive.google.com/file/d/1PEmHjGVw455axRjvFghr7S7ngi4VDqk5/view?usp=sharing)
-| Variáveis Aleatórias Contínuas-Slides   | Slides                  | [link](https://drive.google.com/file/d/1r28kBN8WsFo3cgFxOBivGol7dcf_vO3-/view?usp=sharing) 
-|                                         |                         |
+| 
 | Distribuição Normal                     | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1QQrRRnAgGf6wgf8jkPsxLHHcIITt4Cjh/view?usp=sharing)     
 |                                         | Tabela Normal Padrão    | [link](https://drive.google.com/file/d/1HK-ojyzYDsWTDqpx_WRPqyQjzwF0x6Xv/view?usp=sharing) 
