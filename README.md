@@ -205,7 +205,7 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 |                                         | Slides da Aula - Parte 1| [link](https://drive.google.com/file/d/1iubL6nV3uRFHWRhSCBmm1WXEujC_Oyu9/view?usp=sharing)
 |                                         | Slides da Aula - Parte 2| [link](https://drive.google.com/file/d/1OP6snDd2IRRH3UZlm3zTBW7L0opLBfPU/view?usp=sharing)
 |                                         | **Lista de Exercícios_5**     | [link](https://drive.google.com/file/d/1xX2FAZMSoUGeuU_EWitoWvzeTR-A2BSU/view?usp=sharing)
-|Modelos VA Discretas                      | Slides da Aula          | [link]()     
+|Modelos VA Discretas                      | Slides da Aula          | [link](https://drive.google.com/file/d/18MmhHqNGfDZ1m6Qr_gj9kMLa2QVBqG3z/view?usp=sharing)     
 |                                         | **Lista de Exercícios_6**     |  <!--[link](https://drive.google.com/file/d/1PEmHjGVw455axRjvFghr7S7ngi4VDqk5/view?usp=sharing)-->
 | Distribuição Normal                     | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1QQrRRnAgGf6wgf8jkPsxLHHcIITt4Cjh/view?usp=sharing)     
