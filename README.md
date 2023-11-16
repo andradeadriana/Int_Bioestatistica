@@ -210,7 +210,7 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 | Distribuição Normal                     | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1QQrRRnAgGf6wgf8jkPsxLHHcIITt4Cjh/view?usp=sharing)     
 |                                         | Tabela Normal Padrão    | [link](https://drive.google.com/file/d/1HK-ojyzYDsWTDqpx_WRPqyQjzwF0x6Xv/view?usp=sharing) 
-|                                         | **Lista de Exercícios_7**     | [link]()
+|                                         | **Lista de Exercícios_7**     | [link](https://drive.google.com/file/d/1N_PVFJ3aHa5bBgm1YVoSU2YnCBVd6_Yj/view?usp=sharing)
 | Introdução à Inferência Estatística     | Videoaula 1             |  <!--[link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl) --> 
 |                                         | Videoaula 2             | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Videoaula 3             | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
