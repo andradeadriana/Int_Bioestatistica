@@ -63,13 +63,11 @@ ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T.A.. Estatística Aplicada à Admini
 ****************************************************************************************************************************************************************************
 
 ## **PROVAS**
-P1 - 24/10/2023
+P1 - 07/05/2025
 
-P2 - 07/12/2023
+P2 - 25/06/2025
 
-Segunda Chamada - 14/12/2023
-
-Optativa - 19/12/2023
+Optativa - 07/07/2025
 
 Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z_6tu/view?usp=sharing)
 
@@ -114,11 +112,11 @@ Formulário [link](https://drive.google.com/file/d/1r8ol-eFkK8nbHd-o_QzxtRL5BE3Z
 
 **MONITORIA**
 
-O Departamento de Matemática conta com Monitores de Estatísca Básica que oferecem suporte aos alunos. 
+O Departamento de Matemática conta com Monitores de Introdução à Bioestatística que oferecem suporte aos alunos. 
 
 ---
 
-![image](![monitoria_2023_2](https://github.com/andradeadriana/Estatistica_Basica/assets/8046998/3718de8b-0477-47a6-a162-3295278a4cd7)
+![image](https://github.com/user-attachments/assets/45a77e29-2e2f-40d4-b070-021cd6ddfa45)
 
 ---
 
@@ -133,37 +131,37 @@ O Departamento de Matemática conta com Monitores de Estatísca Básica que ofer
 
 |	Data	|	Tópico	|
 |	-----	|	--------------------------------------------------------	|
-|	29/08/2023	|	Apresentação do Curso. Tipos de variáveis. Tabelas	|
-|	31/08/2023	|	Gráficos  |
-|	05/09/2023	|	Medidas de Posição	|
-|	12/09/2023	|	Medidas de Dispersão - Assimetria - Boxplot	|
-|	14/09/2023	|	Exercícios	|
-|	19/09/2023	|	Laboratório Software R	|
-|	21/09/2023	|	Medidas de posição e dispersão para dados agrupados em tabelas de frequência	|
-|	26/09/2023	|	Análise bidimensional para variáveis quantitativas	|
-|	28/09/2023	|	Exercícios	|
-|	03/10/2023	|	Análise bidimensional para variáveis qualitativas	|
-|	05/10/2023	|	Laboratório Software R	|
-|	10/10/2023	|	Exercícios	|
-|	17/10/2023	|SNCT - Não haverá aula	|
-|	19/10/2023	|SNCT - Não haverá aula	|
-|	24/10/2023	|	PROVA 1	|
-|	26/10/2023	|	Introdução à Probabilidade	|
-|	31/10/2023	|	Probabilidade condicional; Independência	|
-|	07/11/2023	|	Variáveis Aleatórias Discretas	|
-|	09/11/2023	|	Modelos de Variável Aleatórias Discretas	|
-|	14/11/2023	|	Exercícios	|
-|	16/11/2023	|	Modelo Normal	|
-|	21/11/2023	|	Exercícios	|
-|	23/11/2023	|	Introdução à Inferência Estatística	|
-|	28/11/2023	|	Exercícios	|
-|	30/11/2023	|	Intervalo de Confiança para média de uma população normal com variância Conhecida	|
-|	05/12/2023	|	Exercícios	|
-|	07/12/2023	|	PROVA 2	|
-|	12/12/2023	|	Não haverá aula	|
-|	14/12/2023	|	Aplicação da 2ª Chamada. Vista de Prova	|
-|	19/12/2023	|	OPTATIVA|
-|	21/12/2023	|	Não haverá aula		|
+|	17/03/2025	|	Apresentação do Curso. Tipos de variáveis. Tabelas	|
+|	19/03/2025	|	Gráficos  |
+|	24/03/2025	|	Medidas de Posição	|
+|	26/03/2025	|	Medidas de Dispersão - Assimetria - Boxplot	|
+|	31/03/2025	|	Exercícios	|
+|	02/04/2025	|	Laboratório Software R	|
+|	07/04/2025	|	Medidas de posição e dispersão para dados agrupados em tabelas de frequência	|
+|	14/04/2025	|	Análise bidimensional para variáveis quantitativas	|
+|	16/04/2025	|	Exercícios	|
+| 28/04/2025	|	Análise bidimensional para variáveis qualitativas	|
+|	30/04/2025	|	Laboratório Software R	|
+|	05/05/2025	|	Exercícios	|
+|	07/05/2025	|	PROVA 1	|
+|	12/05/2025	|	Laboratório Software R	|
+|	14/05/2025	|	Introdução à Probabilidade	|
+|	19/05/2025	|	Probabilidade condicional; Independência	|
+|	21/05/2025	|	Exercícios	|
+|	26/05/2025	|	Variáveis Aleatórias Discretas	|
+|	28/05/2025	|	Exercícios	|
+|	02/06/2025	|	Modelos de Variável Aleatórias Discretas	|
+|	04/06/2025	|	Exercícios	|
+|	09/06/2025	|	Modelo Normal	|
+|	11/06/2025	|	Exercícios	|
+|	16/06/2025	|	Introdução à Inferência Estatística	|
+|	18/06/2025	|	Exercícios	|
+|	23/06/2025	|	Exercícios	|
+|	25/06/2025	|	PROVA 2	|
+|	30/06/2025	|	Aplicação da 2ª Chamada. Vista de Prova	|
+|	02/07/2025	|	Não haverá aula		|
+| 07/07/2025	|	OPTATIVA|
+
 
 
 
