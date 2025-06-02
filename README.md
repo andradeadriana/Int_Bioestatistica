@@ -205,7 +205,7 @@ Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as a
 |                                         | Slides da Aula - Parte 2| [link](https://drive.google.com/file/d/1OP6snDd2IRRH3UZlm3zTBW7L0opLBfPU/view?usp=sharing)
 |                                         | **Lista de Exercícios_5**    | [link](https://drive.google.com/file/d/1xX2FAZMSoUGeuU_EWitoWvzeTR-A2BSU/view?usp=sharing)
 |Modelos VA Discretas-Binomial/Poisson    | Slides da Aula          | [link](https://drive.google.com/file/d/1xz3jbs-QVDlnt2SxEFTHA6pN_rpoLCMn/view?usp=sharing)     
-|                                         | **Lista de Exercícios_6** |  [link]([https://drive.google.com/file/d/14uqCxTa-tprAOptdBGcePVtpr-KfLtHC/view?usp=sharing](https://drive.google.com/file/d/1-_WDBvN_wmxglnW7SLmJc-Qx5mp05ply/view?usp=sharing))
+|                                         | **Lista de Exercícios_6** |  [link](https://drive.google.com/file/d/1-_WDBvN_wmxglnW7SLmJc-Qx5mp05ply/view?usp=sharing)
 | Distribuição Normal                     | Videoaula               | [link](https://youtube.com/playlist?list=PLwrfdhMyXahcRx5v5swTBkh2OgyWOFRgl)  
 |                                         | Slides da Aula          | [link](https://drive.google.com/file/d/1QQrRRnAgGf6wgf8jkPsxLHHcIITt4Cjh/view?usp=sharing)     
 |                                         | Tabela Normal Padrão    | [link](https://drive.google.com/file/d/1HK-ojyzYDsWTDqpx_WRPqyQjzwF0x6Xv/view?usp=sharing) 
